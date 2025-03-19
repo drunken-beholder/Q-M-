@@ -304,6 +304,7 @@ void simplify_group(vector<Term> &group)
 		if (group[i].element_bin() == group[i + 1].element_bin())
 		{
 			group.erase(group.begin() + i);
+			i--;
 		}
 	}
 }

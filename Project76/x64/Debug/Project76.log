@@ -1,4 +1,4 @@
 ﻿  main.cpp
-D:\Source\vs2022资源\Project76\Project76\main.cpp(413,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-D:\Source\vs2022资源\Project76\Project76\main.cpp(519,21): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Source\vs2022资源\Project76\Project76\main.cpp(417,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Source\vs2022资源\Project76\Project76\main.cpp(523,21): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
   Project76.vcxproj -> D:\Source\vs2022资源\Project76\x64\Debug\Project76.exe
